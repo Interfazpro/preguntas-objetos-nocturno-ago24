@@ -1,3 +1,6 @@
 lorem helloworld
 
 test_1_EdissonFierro
+
+
+que es typecript 
