@@ -22,6 +22,3 @@ b) Reducir el consumo de memoria
 c) Crear imágenes
 
 Resp c
-
-
-
