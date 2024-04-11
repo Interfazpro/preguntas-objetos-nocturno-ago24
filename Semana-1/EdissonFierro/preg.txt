@@ -1,5 +1,27 @@
-one 
+¿TypeScript es compatible con JavaScript, ?
 
-two 
+a) Sí, TypeScript es compatible con JavaScript 
+b) No, TypeScript es un superset de JavaScript 
+c) las dos son correctas
 
-three 
+Resp a
+
+¿Qué es "Exercism" y cómo se relaciona con TypeScript?
+
+a) "Exercism" es una plataforma en línea para practicar ejercicios de programación en diversos lenguajes, incluyendo TypeScript, proporcionando desafíos y problemas para mejorar las habilidades de codificación.
+b) Sirve para realizar operaciones lógicas
+c) Crea tipografías 
+
+Resp a
+
+
+¿Cuál es el propósito principal de TypeScript en el desarrollo de software?
+
+a) El propósito principal de TypeScript es añadir tipado estático opcional y otras características como interfaces y clases a JavaScript, mejorando así la robustez y mantenibilidad del código.
+b) Reducir el consumo de memoria
+c) Crear imágenes
+
+Resp c
+
+
+
